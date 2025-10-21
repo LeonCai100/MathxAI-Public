@@ -1,1 +1,193 @@
-MathLens term of services
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MathLens — Terms of Service</title>
+<style>
+  :root{
+    --bg:#ffffff; --fg:#0f172a; --muted:#475569; --accent:#0ea5e9; --border:#e2e8f0;
+  }
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;line-height:1.6;}
+  .container{max-width:900px;margin:0 auto;padding:48px 20px 72px;}
+  h1,h2,h3{line-height:1.25;color:#0b1220;}
+  h1{font-size:2.0rem;margin-top:0;margin-bottom:1rem;}
+  h2{font-size:1.25rem;margin-top:2.0rem;border-top:1px solid var(--border);padding-top:1.25rem;}
+  h3{font-size:1.05rem;margin-top:1.25rem;}
+  p,li{font-size:1rem;}
+  .note{background:#f8fafc;border:1px solid var(--border);padding:12px 14px;border-radius:10px;}
+  code,pre{background:#f8fafc;border:1px solid var(--border);border-radius:8px;padding:10px;display:block;white-space:pre-wrap;}
+  a{color:var(--accent);}
+  .meta{color:var(--muted);font-size:.95rem;margin-top:.25rem;margin-bottom:1.25rem;}
+  ul{margin-top:.25rem;}
+</style>
+</head>
+<body>
+  <main class="container">
+    <h1>Terms of Service — MathLens</h1>
+    <div class="meta"><strong>Effective Date:</strong> [Month Day, Year] &nbsp; | &nbsp; <strong>Last Updated:</strong> [Month Day, Year]</div>
+    <p>Welcome to <strong>MathLens</strong>. These Terms of Service (“<strong>Terms</strong>”) are a legally binding agreement between you and <strong>PhotoSolver</strong> (“<strong>PhotoSolver</strong>,” “<strong>we</strong>,” “<strong>us</strong>,” or “<strong>our</strong>”) governing your access to and use of the MathLens mobile application, related websites, software, and services (collectively, the “<strong>Service</strong>”).</p>
+    <p>By downloading, accessing, or using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms and our <strong>Privacy Policy</strong> (the “Privacy Policy”). If you do not agree, do not use the Service.</p>
+    <div class="note"><strong>Educational Use Notice.</strong> MathLens uses AI to analyze photos you capture with your camera or import from your library to help you understand and solve problems (e.g., math/science). MathLens is a <em>study aid</em>, not a substitute for learning. Do not use MathLens to violate academic integrity rules.</div>
+
+    <h2>1. Who We Are</h2>
+    <p>The Service is provided by <strong>PhotoSolver</strong> (USA). You can contact us at <a href="mailto:support@mathlens.com">support@mathlens.com</a>.</p>
+    <p><em>Jurisdiction-specific terms.</em> Different terms may apply to you based on where you live (e.g., UK/EEA consumer rights). Please read Section 22 (Region-Specific Terms) and Appendix A (UK/EEA Withdrawal Rights) if applicable.</p>
+
+    <h2>2. Eligibility &amp; Accounts</h2>
+    <ul>
+      <li><strong>Minimum age.</strong> You must be at least <strong>13</strong> years old (or the minimum age required in your jurisdiction) to use the Service. If you are under the age of majority where you live, you represent that you have <strong>parent or legal guardian consent</strong>.</li>
+      <li><strong>Age verification.</strong> We may request proof of age or parental consent and may suspend or terminate accounts that do not meet these requirements or provide false information.</li>
+      <li><strong>Account registration.</strong> Certain features require an account. You must provide accurate, current information and keep it updated. You are responsible for all activity that occurs under your account and for keeping your password confidential. Notify us immediately of any unauthorized use.</li>
+      <li><strong>Third-party login.</strong> If you use Apple/Google/other single sign-on, you must comply with that provider’s terms.</li>
+    </ul>
+
+    <h2>3. What MathLens Does (and Doesn’t)</h2>
+    <ul>
+      <li>MathLens allows you to capture or upload photos and uses AI to analyze them and generate explanations, steps, or suggested answers.</li>
+      <li><strong>AI is probabilistic.</strong> Outputs may be incomplete, inaccurate, or inappropriate in certain cases. Always verify with authoritative sources.</li>
+      <li><strong>No professional advice.</strong> Outputs are for informational/educational purposes only and are <strong>not</strong> medical, legal, financial, or other professional advice.</li>
+      <li><strong>Academic integrity.</strong> Do not use MathLens to cheat on exams, quizzes, or assignments or to otherwise violate institutional policies.</li>
+    </ul>
+
+    <h2>4. License to You</h2>
+    <p>Subject to these Terms, we grant you a <strong>limited, revocable, non-exclusive, non-transferable, non-sublicensable</strong> license to (a) install and run one copy of the app on a device you own or control and (b) access and use the Service for <strong>personal, non-commercial</strong> purposes.</p>
+    <p>You agree <strong>not</strong> to: (i) copy, modify, or create derivative works of the Service; (ii) sell, rent, lease, or sublicense the Service; (iii) reverse engineer, decompile, or attempt to extract source code, except where such restriction is prohibited by law; (iv) use bots, scrapers, or automated means to access the Service or extract data; (v) bypass or interfere with rate limits, security, or access controls; (vi) use the Service to build a competing product.</p>
+
+    <h2>5. Proprietary Rights</h2>
+    <p>Unless otherwise stated, all materials in the Service—including software, source and object code, UI, text, graphics, logos, domain names, and design (collectively, “<strong>MathLens Content</strong>”)—are owned by or licensed to PhotoSolver and protected by intellectual property laws. Except for the license granted in Section 4, <strong>no rights</strong> are granted to you, and all rights are reserved.</p>
+
+    <h2>6. Your Content &amp; Permissions</h2>
+    <p><strong>User Content</strong> includes photos, prompts, annotations, feedback, and any content you upload or generate through the Service.</p>
+    <ul>
+      <li><strong>Ownership.</strong> You retain all rights to your User Content.</li>
+      <li><strong>Your responsibility.</strong> You represent and warrant that you have all necessary rights and permissions to upload and process your User Content, and that your User Content does not violate the law or third-party rights (e.g., privacy, publicity, or IP rights). Do not upload illegal or prohibited content (see Section 8).</li>
+      <li><strong>License to operate the Service.</strong> You grant PhotoSolver a worldwide, royalty-free, transferable, sublicensable license to host, store, reproduce, process, analyze, adapt, translate, display, perform, and create derivative works from your User Content <strong>solely to provide, maintain, personalize, protect, troubleshoot, and improve the Service and related models/features</strong>.</li>
+      <li><strong>Improving AI.</strong> We may use de-identified or aggregated data derived from your use to improve MathLens and our AI systems. Where required by law or our Privacy Policy, we will obtain consent, provide opt-out controls, or implement additional safeguards. See the Privacy Policy for details.</li>
+      <li><strong>Feedback.</strong> If you submit feedback or ideas, you grant us a perpetual, irrevocable, worldwide, royalty-free right to use them without restriction or compensation.</li>
+    </ul>
+    <p>We may (but have no obligation to) monitor, remove, or restrict User Content that we reasonably believe violates these Terms or applicable law.</p>
+
+    <h2>7. Third-Party Services &amp; Links</h2>
+    <p>The Service may contain links to or integrate with third-party websites, content, or services (including app stores and AI/cloud providers). We do not control or endorse third-party services and are not responsible for their content, availability, policies, or practices. Your use is at your own risk and may be governed by third-party terms.</p>
+
+    <h2>8. Acceptable Use &amp; Prohibited Content</h2>
+    <p>You agree not to upload, share, or engage in activity that:</p>
+    <ul>
+      <li>is illegal, infringing, deceptive, defamatory, harassing, hateful, exploitative, or otherwise harmful;</li>
+      <li>includes others’ personal data or images without necessary permission or legal basis;</li>
+      <li>depicts or exploits minors, contains sexually explicit content involving minors, or otherwise endangers children;</li>
+      <li>transmits malware, viruses, or other malicious code;</li>
+      <li>attempts to access non-public areas or disrupt the Service;</li>
+      <li>sends spam, chain letters, or mass unsolicited messages;</li>
+      <li>commercializes the Service without our written approval;</li>
+      <li>uses automated means (bots, scrapers) to extract data or circumvent limits;</li>
+      <li>is inconsistent with applicable law or the <strong>purpose</strong> of the Service (educational study aid).</li>
+    </ul>
+    <p><strong>Content Moderation.</strong> We use a combination of automated tools and human review to detect and address policy-violating content. We may restrict visibility, remove content, or suspend/ban accounts for violations and may report unlawful content to authorities where required.</p>
+
+    <h2>9. Privacy &amp; Security</h2>
+    <p>Please review our <strong>Privacy Policy</strong> (incorporated by reference) to understand how we collect, use, disclose, and safeguard personal data, including images and image-derived data. Do not upload <strong>sensitive</strong> personal data (e.g., government IDs, health or financial data, biometrics) unless the Privacy Policy expressly allows it and you have all necessary rights and consents.</p>
+
+    <h2>10. Purchases, Trials, Billing &amp; Renewal</h2>
+    <ul>
+      <li><strong>Paid Services.</strong> MathLens offers paid or premium features (“<strong>Paid Services</strong>”). Pricing, applicable taxes, currency, and term will be shown at checkout (in-app or website). You agree to pay all fees and taxes, if any.</li>
+      <li><strong>App-store billing.</strong> Purchases made through Apple App Store or Google Play are billed by those platforms and are subject to their terms and refund policies.</li>
+      <li><strong>Trials.</strong> We may offer free trials. Unless canceled before the trial ends, your trial converts to a paid subscription, and you authorize automatic billing for the next term.</li>
+      <li><strong>Auto-renewal.</strong> Subscriptions <strong>automatically renew</strong> at the then-current rate unless canceled before renewal. Manage/cancel in your device’s subscription settings or as otherwise provided. Except as required by law or app-store policies, <strong>fees are non-refundable</strong>.</li>
+      <li><strong>Price changes.</strong> We may change prices prospectively. For recurring plans, we will provide reasonable advance notice as required by applicable law or platform policy. If you do not agree to the new price, cancel before the next billing date.</li>
+      <li><strong>Eligibility for Paid Services.</strong> You must (a) be a registered user; (b) be the age of majority where you live; and (c) be capable of entering a binding contract.</li>
+    </ul>
+
+    <h2>11. Modifications, Updates &amp; Availability</h2>
+    <p>We may add or remove features, change usage limits, or discontinue part or all of the Service. We may also update the Service for security, legal, or technical reasons and may require you to install updates. Where changes materially and adversely affect you, we will provide reasonable advance notice when practicable. Descriptions of the Service are not guarantees that features will always remain available.</p>
+
+    <h2>12. Export &amp; Sanctions</h2>
+    <p>You may not use or export the Service in violation of U.S. or other applicable export control and sanctions laws (including to embargoed countries/regions or restricted parties).</p>
+
+    <h2>13. Copyright &amp; IP Complaints (DMCA)</h2>
+    <p>If you believe material on the Service infringes your copyright or other IP rights, please submit a notice including: (a) your contact details; (b) identification of the work(s) claimed to be infringed; (c) identification/URL of the allegedly infringing material; (d) your good-faith statement; (e) a statement that the information is accurate and you are the rights holder or authorized agent; and (f) your signature.</p>
+    <p><strong>Contact for IP notices:</strong> <a href="mailto:support@mathlens.com">support@mathlens.com</a> (subject: “DMCA/IP Notice”)
+    <br>We may remove or disable access to alleged infringing content and terminate repeat infringers where appropriate.</p>
+
+    <h2>14. Translations</h2>
+    <p>MathLens or related materials may be translated for convenience (including machine translation). The <strong>official text is English</strong>. If questions arise, the English version controls.</p>
+
+    <h2>15. Disclaimers</h2>
+    <p>THE SERVICE AND ALL OUTPUTS ARE PROVIDED <strong>“AS IS”</strong> AND <strong>“AS AVAILABLE.”</strong> TO THE MAXIMUM EXTENT PERMITTED BY LAW, PHOTOSOLVER DISCLAIMS <strong>ALL WARRANTIES</strong>, EXPRESS OR IMPLIED, INCLUDING <strong>MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT,</strong> AND <strong>ACCURACY</strong>. WE DO NOT WARRANT UNINTERRUPTED OR ERROR-FREE OPERATION, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SERVICE IS FREE OF HARMFUL COMPONENTS. YOU USE THE SERVICE (INCLUDING AI OUTPUTS) <strong>AT YOUR OWN RISK</strong>.</p>
+
+    <h2>16. Limitation of Liability</h2>
+    <p>TO THE MAXIMUM EXTENT PERMITTED BY LAW, PHOTOSOLVER AND ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, AND PARTNERS WILL NOT BE LIABLE FOR <strong>INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES</strong>, OR FOR <strong>LOSS OF PROFITS, DATA, GOODWILL, OR BUSINESS</strong>, EVEN IF ADVISED OF THE POSSIBILITY. OUR <strong>TOTAL LIABILITY</strong> FOR ALL CLAIMS <strong>WILL NOT EXCEED</strong> THE AMOUNTS YOU PAID (IF ANY) FOR THE SERVICE IN THE <strong>12 MONTHS</strong> BEFORE THE EVENT GIVING RISE TO LIABILITY (OR <strong>$50</strong> IF YOU HAVE NOT PAID).</p>
+    <p>Nothing in these Terms limits liability where it would be unlawful to do so (e.g., fraud, death or personal injury caused by negligence). Some jurisdictions do not allow certain limitations; where prohibited, the relevant limitation will not apply.</p>
+
+    <h2>17. Indemnity (Business/Institutional Use)</h2>
+    <p>If you use the Service for or on behalf of a business, you will <strong>indemnify and hold harmless</strong> PhotoSolver from and against any third-party claims, damages, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising from your unlawful use of the Service, your violation of these Terms, or your infringement of third-party rights.</p>
+
+    <h2>18. Suspension &amp; Termination</h2>
+    <p>We may suspend or terminate your access to the Service (or any part) if: (a) you materially or repeatedly breach these Terms; (b) we are required to do so by law or court order; (c) your use poses risk or harm to users, us, or third parties; or (d) you are a repeat IP infringer. You may stop using the Service at any time. Sections that by their nature should survive (including 5–7, 9–10, 12–20, 22, and Appendix A) will survive termination.</p>
+
+    <h2>19. Changes to These Terms</h2>
+    <p>We may modify these Terms (for example, to reflect new features, pricing, or legal requirements). The “Last Updated” date shows the current version. Where changes <strong>materially</strong> affect your rights, we will provide reasonable advance notice when practicable. If you continue using the Service after changes become effective, you accept the updated Terms. If you do not agree, you must stop using the Service.</p>
+
+    <h2>20. Assignment; No Waiver; Severability; Third-Party Rights</h2>
+    <p>You may not assign or transfer these Terms without our prior written consent. We may assign or delegate these Terms (in whole or part) at any time. Our failure to enforce any provision is not a waiver. If any provision is held invalid or unenforceable, the remainder remains in full force. Except as expressly stated in Section 23 (App Stores), these Terms create no third-party beneficiary rights.</p>
+
+    <h2>21. Governing Law &amp; Dispute Resolution (U.S.)</h2>
+    <p><strong>Governing Law.</strong> Except as otherwise required by law where you reside, these Terms are governed by the laws of the <strong>State of California</strong>, without regard to conflict-of-laws rules.<br>
+    <strong>Venue.</strong> You and PhotoSolver agree to the <strong>exclusive jurisdiction and venue</strong> of the state or federal courts located in <strong>Santa Clara County, California, USA</strong> for any disputes that are not subject to arbitration as set out below, and you consent to personal jurisdiction in those courts.</p>
+
+    <h3>21.1 Arbitration &amp; Class-Action Waiver (U.S. Users)</h3>
+    <p><strong>Please read this carefully.</strong> Except for claims that qualify for <strong>small claims court</strong>, any dispute arising out of or relating to these Terms or the Service will be resolved by <strong>binding arbitration</strong> administered by the <strong>American Arbitration Association (AAA)</strong> under its <strong>Consumer Arbitration Rules</strong>.</p>
+    <ul>
+      <li><strong>Class/representative actions are not permitted.</strong> YOU AND PHOTOSOLVER <strong>WAIVE ANY RIGHT TO A JURY TRIAL</strong> AND TO PARTICIPATE IN A CLASS ACTION OR CLASS-WIDE ARBITRATION.</li>
+      <li><strong>30-day opt-out.</strong> You may opt out of arbitration by sending written notice to <a href="mailto:support@mathlens.com">support@mathlens.com</a> within 30 days of first accepting these Terms (subject: “Arbitration Opt-Out”), including your name, the email tied to your account, and a clear statement that you opt out.</li>
+      <li>This clause does not apply where prohibited by law.</li>
+    </ul>
+
+    <h2>22. Region-Specific Terms</h2>
+    <ul>
+      <li><strong>EEA/UK/Switzerland consumers.</strong> Where required by law, these Terms and any disputes are governed by the laws of your country of residence, and you may bring claims in your local courts. You may have statutory digital-content guarantees and <strong>withdrawal rights</strong> for direct purchases from us (see <strong>Appendix A</strong>).</li>
+      <li><strong>Brazil.</strong> To the extent Brazilian consumer law applies, local mandatory rights remain unaffected.</li>
+      <li><strong>Australia.</strong> Nothing in these Terms excludes or limits <strong>Australian Consumer Law</strong> guarantees that cannot be excluded.</li>
+    </ul>
+    <p>(If any local-law mandatory right conflicts with these Terms, the local right controls to the minimum extent required.)</p>
+
+    <h2>23. App Store Terms</h2>
+    <p><strong>Apple.</strong> These Terms are between you and PhotoSolver, not Apple. Apple is not responsible for the app or its content and has no obligation to provide maintenance or support. In case of non-conformity, Apple may refund the purchase price (if any). Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you.</p>
+    <p><strong>Google Play.</strong> If you download via Google Play, the <strong>Google Play Terms of Service</strong> and applicable policies apply in case of conflict regarding use, billing, and refunds for in-app purchases.</p>
+
+    <h2>24. Force Majeure</h2>
+    <p>Neither party is liable for delay or failure to perform due to events beyond reasonable control (e.g., natural disasters, acts of government, war, terrorism, riots, strikes excluding your payment obligations), provided the affected party uses commercially reasonable efforts to mitigate.</p>
+
+    <h2>25. Entire Agreement</h2>
+    <p>These Terms (including the Privacy Policy and any additional terms incorporated by reference) constitute the <strong>entire agreement</strong> between you and PhotoSolver regarding the Service and supersede prior or contemporaneous agreements on the subject matter.</p>
+
+    <h2>26. Contact</h2>
+    <p>For questions about these Terms or the Service, contact: <a href="mailto:support@mathlens.com">support@mathlens.com</a>.</p>
+
+    <h2>Appendix A — UK and EEA Consumers: Withdrawal Rights (Direct Sales Only)</h2>
+    <p><strong>Right of withdrawal.</strong> If you purchase a subscription <strong>directly from PhotoSolver</strong> as a consumer in the UK or EEA, you may withdraw from your contract within <strong>14 days</strong> without giving any reason, starting from the date of conclusion of the contract.</p>
+    <p><strong>How to exercise.</strong> Inform us of your decision to withdraw by an unequivocal statement (e.g., email) sent to <a href="mailto:support@mathlens.com">support@mathlens.com</a> or by mail to [Insert Postal Address]. We will acknowledge receipt on a durable medium without delay. You may use the model form below, but it is not mandatory. To meet the deadline, send your notice before the period expires.</p>
+    <p><strong>Effects.</strong> If you withdraw, we will reimburse all payments received from you, including standard delivery costs (if applicable), without undue delay and no later than <strong>14 days</strong> from the day we are informed of your decision. We will use the same means of payment you used, unless you agree otherwise; you will not incur fees for the reimbursement. If you requested service to begin during the withdrawal period, you may owe a <strong>pro-rated</strong> amount for services provided before withdrawal.</p>
+
+    <h3>Model withdrawal form (complete and return only if you wish to withdraw):</h3>
+    <pre><code>To: PhotoSolver
+Email: support@mathlens.com
+I/We hereby give notice that I/We withdraw from my/our contract for the provision of the following service:
+— Ordered on:
+— Name of consumer(s):
+— Address of consumer(s):
+— Email used for the purchase:
+— Signature of consumer(s) (only if this form is notified on paper):
+— Date:</code></pre>
+
+    <p><em>If you purchased your subscription through <strong>Apple App Store</strong> or <strong>Google Play</strong>, please contact the respective store directly to exercise any withdrawal/cancellation or refund rights, which are governed by their policies.</em></p>
+
+    <hr>
+    <p><small><strong>Short Glossary</strong><br>
+    <strong>Service</strong>: The MathLens app, sites, software, and related services.<br>
+    <strong>User Content</strong>: Content you upload or generate (e.g., photos, prompts, annotations).<br>
+    <strong>Paid Services</strong>: MathLens premium features or subscriptions.</small></p>
+  </main>
+</body>
+</html>
