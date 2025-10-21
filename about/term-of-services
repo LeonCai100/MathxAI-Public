@@ -23,8 +23,10 @@
 </head>
 <body>
   <main class="container">
-    <h1>Terms of Service — MathLens</h1>
-    <div class="meta"><strong>Effective Date:</strong> October 01, 2025 &nbsp; | &nbsp; <strong>Last Updated:</strong> October 01, 2025</div>
+    <div class="meta">
+      <div><strong>Effective Date:</strong> October 01, 2025</div>
+      <div><strong>Last Updated:</strong> October 01, 2025</div>
+    </div>
     <p>Welcome to <strong>MathLens</strong>. These Terms of Service (“<strong>Terms</strong>”) are a legally binding agreement between you and <strong>PhotoSolver</strong> (“<strong>PhotoSolver</strong>,” “<strong>we</strong>,” “<strong>us</strong>,” or “<strong>our</strong>”) governing your access to and use of the MathLens mobile application, related websites, software, and services (collectively, the “<strong>Service</strong>”).</p>
     <p>By downloading, accessing, or using the Service, you acknowledge that you have read, understood, and agree to be bound by these Terms and our <strong>Privacy Policy</strong> (the “Privacy Policy”). If you do not agree, do not use the Service.</p>
     <div class="note"><strong>Educational Use Notice.</strong> MathLens uses AI to analyze photos you capture with your camera or import from your library to help you understand and solve problems (e.g., math/science). MathLens is a <em>study aid</em>, not a substitute for learning. Do not use MathLens to violate academic integrity rules.</div>
