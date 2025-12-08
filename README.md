@@ -1,1 +1,1 @@
-# MathLens-Public
+# MathxAI-Public
